@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Avishkar Varadkar
 
-<!--
-**Avishkar2/Avishkar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate  
+🤖 Exploring AI, ML, and Robotics  
+💻 Strong foundation in C, C++, Java, HTML, CSS  
+🚀 Open to IT support, dev, and learning-based roles  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** C, C++, Core Java
+- **Web:** HTML, CSS (Responsive Design)
+- **Database:** MySQL (Basic Queries)
+- **Tools:** Git (Basic), GitHub (Basic), Postman (Familiar)
+- **Learning:** Python (AI/ML path)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Project
+**Amazon Frontend Clone**  
+[🔗 View on GitHub](https://avishkar2.github.io/Amazon-clone/)  
+Built using HTML/CSS | Custom sections | Mobile responsive
+
+## 📫 Contact
+- Email: varadkaravishkar24@email.com
+- GitHub: [github.com/Avishkar2](https://github.com/Avishkar2)
