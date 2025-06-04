@@ -1,5 +1,4 @@
 <img src="https://github.com/Avishkar2/Avishkar2/blob/main/AVISHKAR%20VARADKAR.png" alt="banner" width="100%">
-
 # 👋 Hi, I'm Avishkar Varadkar
 
 🎓 Computer Engineering graduate  
