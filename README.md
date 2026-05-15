@@ -5,14 +5,14 @@
 🎓 Computer Engineering graduate  
 🤖 Exploring AI, ML, and Robotics  
 💻 Strong foundation in C, C++, Java, HTML, CSS  
-🚀 Open to IT support, dev, and learning-based roles  
+🚀 Open to QA, Software Testing, IT support, dev, and learning-based roles  
 
 ## 🔧 Skills
-- **Languages:** C, C++, Core Java
+- **Languages:** C, C++, Core Java, Python
 - **Web:** HTML, CSS (Responsive Design)
 - **Database:** MySQL (Basic Queries)
 - **Tools:** Git (Basic), GitHub (Basic), Postman (Familiar)
-- **Learning:** Python (AI/ML path)
+- **Concepts:** Object Oriented Programming (OOPS)  
 
 ## 📌 Project
 **Amazon Frontend Clone**  
